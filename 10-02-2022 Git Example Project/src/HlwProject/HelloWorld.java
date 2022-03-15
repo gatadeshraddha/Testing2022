@@ -6,5 +6,9 @@ public class HelloWorld
 	{
 		System.out.println("Hello World");
 	}
+	public void m1()
+	{
+		System.out.println("M1 method");
+	}
 
 }
